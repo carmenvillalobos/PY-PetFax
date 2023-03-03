@@ -1,0 +1,47 @@
+img {
+    border-radius: 15%;
+    max-height: 70vh;
+    max-width: 45vh;
+}
+
+body {
+    background-color: rgb(230,233,235);
+    
+}
+
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+h1 {
+    width: 200px;
+    border: 10px solid blueviolet;
+    padding: 30px;
+    margin: 15px;
+    border-radius: 35%;
+    text-align: center;
+    background: violet;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.body {
+    text-align: center;
+}
+
+.linkToFacts, .showPets, .form {
+    text-align: center;
+}
+
+.form {
+    width: 500px;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 15%;
+    background: orange;
+    border: 10px solid yellow;
+    margin-left: auto;
+    margin-right: auto;
+}
